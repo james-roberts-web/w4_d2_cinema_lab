@@ -1,0 +1,96 @@
+body {
+  margin-top: 3%;
+  margin-left: 8%;
+  margin-right: 8%;
+  margin-bottom: 5%;
+  background-color: #1d1d1b;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 9  00;
+  color: #f9ae00;
+}
+
+a, a:link, a:visited, a:active {color: inherit;}
+
+/* header {
+  background-color: #252525;
+  color: white;
+  padding-bottom: 5%
+
+} */
+
+  .nav_list{
+  display: flex;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  color: white;
+
+}
+
+.films {
+  padding-top: 3%;
+  font-family: 'Fjalla One', sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 2rem;
+  color: yellow;
+
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+  color: yellow;
+}
+
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 12rem;
+  color: yellow;
+  text-decoration: underline;
+  margin-top: -0.0em;
+  margin-bottom: 0;
+}
+
+h2 {
+  letter-spacing: .1em;
+  color: white;
+}
+
+h3 {
+  font-family: 'Fjalla One', sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 6rem;
+  color: yellow;
+  margin: inherit;
+  padding-top: 20px;
+  line-height: 1.25;
+
+}
+
+/* p {
+  color: yellow;
+} */
+
+li {
+  margin-right: 30px;
+}
+
+footer {
+  align-self:baseline;
+  padding-top: 50px;
+  display: flex;
+  font-size: 0.6em;
+  color: grey;
+}
+
+.foot {
+  background-color: inherit;
+  position: absolute;
+  bottom:0;
+  padding-bottom: 10px;
+
+}
